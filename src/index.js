@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 import Calendar from 'react-calendar';
 import 'react-calendar/dist/Calendar.css';
 
-import './index.css';
 
 function Dia(props){
     return (
